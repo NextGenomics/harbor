@@ -9,3 +9,5 @@ Deploy/jobservice/harbor_jobservice
 ui/ui
 *.pyc
 jobservice/test
+.idea
+harbor.iml
